@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165018782658",
+    "project_id": "project-52db0",
+    "storage_bucket": "project-52db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165018782658:android:9502500c01dadabcb2645b",
+        "android_client_info": {
+          "package_name": "com.smartapp.swagkicks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDqcaImsPWVEHYsIj2kAr6TDnPgIBL0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
